@@ -76,7 +76,7 @@ Installing without setup.py
 
 Then install the required python packages using pip_::
 
-    $ sudo pip install python-jenkins
+    $ sudo pip install jenkins-python-lib
 
 .. _tox: https://testrun.org/tox
 .. _pip: https://pypi.org/project/pip
